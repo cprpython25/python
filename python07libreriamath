@@ -1,0 +1,14 @@
+print ("ejemplo de libreria")
+#sintaxis con from
+from math import floor, ceil, trunc
+numero1 = 20
+numero2 = 3
+division = numero1 / numero2
+print("la division es" , division)
+#declaramos variables para almacenar los valores
+varFloor = floor (division)
+varCeil = ceil (division)
+varTrunc = trunc (division)
+print("Floor" , varFloor)
+print("ce¡l" , varceil)
+print("trunc" , vartrunc)
