@@ -1,9 +1,9 @@
-print ("Ejemplo de bucles")
-print ("while")
-#siempre necesitamos una variable para la condicion del bucle
+print("Ejemplo bucles")
+print("WHILE")
+# NECESITAMOS UNA VARIABLE PARA LA CONDICION DEL BUCLE
 contador = 0
-while contador ≤0 5)
-    #debemos indicar que saldremos del bucle
-    print ("contador, contador")
+while (contador <= 5):
+    # DEBEMOS INDICAR QUE SALDREMOS DEL BUCLE
+    print("Contador ", contador)
     contador = contador + 1
-print
+print("Fin de programa")
